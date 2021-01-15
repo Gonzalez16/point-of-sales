@@ -134,10 +134,6 @@
             Point of sales from scratch
         </div>
         <!-- Default to the left -->
-        <strong>Copyright &copy; {{date('Y')}} <a href="https://twitter.com/E_Axel45">
-                Developed by: Axel Espinosa
-            </a>
-            .</strong>
         All rights reserved.
     </footer>
 </div>
