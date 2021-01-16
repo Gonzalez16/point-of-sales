@@ -72,7 +72,8 @@ function verifyFields(fields) {
 * */
 function storeSale(e) {
     e.preventDefault();
-    const route = '/sales';
+    const path = window.location.pathname.split('/')
+    const route = `/${path[1]}/${path[2]}/sales`;
 
     // Get all the fields and values
     let products = document.querySelectorAll('.product');
