@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-    <title>POS</title>
+    <title>El Arroyo</title>
 
     <link rel="stylesheet" href="{{asset('css/app.css')}}">
 </head>
@@ -42,7 +42,7 @@
     <aside class="main-sidebar sidebar-dark-primary elevation-4">
         <!-- Brand Logo -->
         <a href="/" class="brand-link">
-            <span class="brand-text font-weight-light">POS ZM</span>
+            <span class="brand-text font-weight-light">El Arroyo 🌊</span>
         </a>
 
         <!-- Sidebar -->
